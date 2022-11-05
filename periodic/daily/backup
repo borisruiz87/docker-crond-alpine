@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+echo "Job Days started: $(date)"
+# Add additional instructions
+echo "Job Days finished: $(date)"

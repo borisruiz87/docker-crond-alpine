@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+echo "Job Week started: $(date)"
+# Add additional instructions
+echo "Job Week finished: $(date)"

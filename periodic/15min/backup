@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+echo "Job started: $(date)"
+# Add additional instructions
+echo "Job finished: $(date)"
